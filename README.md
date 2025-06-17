@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michaelneale-goose-app-maker-mcp-badge.png)](https://mseep.ai/app/michaelneale-goose-app-maker-mcp)
+
 # Goose App Maker
 
 This MCP (Model Context Protocol) sever allows users to create, manage, and serve web applications through Goose, that make use of Goose for api calls, data access, and more.
